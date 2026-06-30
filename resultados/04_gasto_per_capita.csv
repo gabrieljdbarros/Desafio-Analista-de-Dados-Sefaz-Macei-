@@ -1,0 +1,521 @@
+capital,funcao,populacao,total_pago,gasto_per_capita
+Prefeitura Municipal de Palmas - TO,01 - Legislativa,334454,60519997.2,180.95
+Prefeitura Municipal de Boa Vista - RR,01 - Legislativa,408157,68432061.55,167.66
+Prefeitura Municipal do Rio de Janeiro - RJ,01 - Legislativa,6625849,1060193047.01,160.01
+Prefeitura Municipal de Rio Branco - AC,01 - Legislativa,364368,57413149.98,157.57
+Prefeitura Municipal de Goiânia - GO,01 - Legislativa,1414483,213391655.25,150.86
+Prefeitura Municipal de Recife - PE,01 - Legislativa,1494586,222654608.25,148.97
+Prefeitura Municipal de Natal - RN,01 - Legislativa,751932,111241460.39,147.94
+Prefeitura Municipal de Florianópolis - SC,01 - Legislativa,574200,82746542.06,144.11
+Prefeitura Municipal de Aracaju - SE,01 - Legislativa,605309,82565134.21,136.4
+Prefeitura Municipal de Vitória - ES,01 - Legislativa,331785,45120968.34,135.99
+Prefeitura Municipal de Teresina - PI,01 - Legislativa,868523,114782304.85,132.16
+Prefeitura Municipal de Cuiabá - MT,01 - Legislativa,694244,89664951.9,129.15
+Prefeitura Municipal de Manaus - AM,01 - Legislativa,2054731,254817116.06,124.01
+Prefeitura Municipal de São Luís - MA,01 - Legislativa,1061374,130881107.11,123.31
+Prefeitura Municipal de João Pessoa - PB,01 - Legislativa,889618,107222832.11,120.53
+Prefeitura Municipal de Campo Grande - MS,01 - Legislativa,942140,111840493.45,118.71
+Prefeitura Municipal de Maceió - AL,01 - Legislativa,960667,110686766.85,115.22
+Prefeitura Municipal de Porto Alegre - RS,01 - Legislativa,1404269,155662113.63,110.85
+Prefeitura Municipal de Porto Velho - RO,01 - Legislativa,461748,47443718.28,102.75
+Prefeitura Municipal de Salvador - BA,01 - Legislativa,2610987,260044133.51,99.6
+Prefeitura Municipal de Belo Horizonte - MG,01 - Legislativa,2392678,237634064.43,99.32
+Prefeitura Municipal de Belém - PA,01 - Legislativa,1367336,132460145.7,96.87
+Prefeitura Municipal de Fortaleza - CE,01 - Legislativa,2596157,248144579.64,95.58
+Prefeitura Municipal de São Paulo - SP,01 - Legislativa,12200180,1138935074.47,93.35
+Prefeitura Municipal de Macapá - AP,01 - Legislativa,478448,44168369.19,92.32
+Prefeitura Municipal de Curitiba - PR,01 - Legislativa,1871789,141494095.89,75.59
+Prefeitura Municipal de Florianópolis - SC,02 - Judiciária,574200,75112554.7,130.81
+Prefeitura Municipal de Porto Alegre - RS,02 - Judiciária,1404269,64454278.55,45.9
+Prefeitura Municipal de Campo Grande - MS,02 - Judiciária,942140,30305071.19,32.17
+Prefeitura Municipal do Rio de Janeiro - RJ,02 - Judiciária,6625849,201745767.78,30.45
+Prefeitura Municipal de Salvador - BA,02 - Judiciária,2610987,63991202.71,24.51
+Prefeitura Municipal de Fortaleza - CE,02 - Judiciária,2596157,61411055.79,23.65
+Prefeitura Municipal de São Paulo - SP,02 - Judiciária,12200180,278301156.69,22.81
+Prefeitura Municipal de João Pessoa - PB,02 - Judiciária,889618,139218.14,0.16
+Prefeitura Municipal de Natal - RN,03 - Essencial à Justiça,751932,118512292.98,157.61
+Prefeitura Municipal de Palmas - TO,03 - Essencial à Justiça,334454,25951955.65,77.59
+Prefeitura Municipal de Rio Branco - AC,03 - Essencial à Justiça,364368,26379278.88,72.4
+Prefeitura Municipal de Vitória - ES,03 - Essencial à Justiça,331785,15437100.33,46.53
+Prefeitura Municipal de Curitiba - PR,03 - Essencial à Justiça,1871789,69631276.87,37.2
+Prefeitura Municipal de Recife - PE,03 - Essencial à Justiça,1494586,54841507.44,36.69
+Prefeitura Municipal de Manaus - AM,03 - Essencial à Justiça,2054731,42470991.33,20.67
+Prefeitura Municipal de Belém - PA,03 - Essencial à Justiça,1367336,20112910.23,14.71
+Prefeitura Municipal de Goiânia - GO,03 - Essencial à Justiça,1414483,4754619.42,3.36
+Prefeitura Municipal de Fortaleza - CE,03 - Essencial à Justiça,2596157,6606119.75,2.54
+Prefeitura Municipal de Teresina - PI,03 - Essencial à Justiça,868523,1246944.47,1.44
+Prefeitura Municipal de Goiânia - GO,04 - Administração,1414483,1719294290.03,1215.49
+Prefeitura Municipal de Porto Velho - RO,04 - Administração,461748,556804527.27,1205.86
+Prefeitura Municipal de Florianópolis - SC,04 - Administração,574200,539428915.97,939.44
+Prefeitura Municipal de Macapá - AP,04 - Administração,478448,383076353.31,800.66
+Prefeitura Municipal de Cuiabá - MT,04 - Administração,694244,528782239.55,761.67
+Prefeitura Municipal de Maceió - AL,04 - Administração,960667,713957195.9,743.19
+Prefeitura Municipal de Aracaju - SE,04 - Administração,605309,391229072.11,646.33
+Prefeitura Municipal de João Pessoa - PB,04 - Administração,889618,568083850.17,638.57
+Prefeitura Municipal de Teresina - PI,04 - Administração,868523,515434133.22,593.46
+Prefeitura Municipal de Boa Vista - RR,04 - Administração,408157,221544319.18,542.79
+Prefeitura Municipal de Vitória - ES,04 - Administração,331785,177897906.16,536.18
+Prefeitura Municipal de Rio Branco - AC,04 - Administração,364368,177790330.8,487.94
+Prefeitura Municipal de Curitiba - PR,04 - Administração,1871789,839545591.04,448.53
+Prefeitura Municipal de Palmas - TO,04 - Administração,334454,146868300.87,439.13
+Prefeitura Municipal de Porto Alegre - RS,04 - Administração,1404269,603926001.18,430.06
+Prefeitura Municipal de Recife - PE,04 - Administração,1494586,634848094.71,424.77
+Prefeitura Municipal de Fortaleza - CE,04 - Administração,2596157,1053980421.83,405.98
+Prefeitura Municipal de São Luís - MA,04 - Administração,1061374,398420041.82,375.38
+Prefeitura Municipal de São Paulo - SP,04 - Administração,12200180,4500916923.68,368.92
+Prefeitura Municipal do Rio de Janeiro - RJ,04 - Administração,6625849,2059866091.52,310.88
+Prefeitura Municipal de Manaus - AM,04 - Administração,2054731,560068390.5,272.58
+Prefeitura Municipal de Belo Horizonte - MG,04 - Administração,2392678,627566784.73,262.29
+Prefeitura Municipal de Campo Grande - MS,04 - Administração,942140,236597506.37,251.13
+Prefeitura Municipal de Salvador - BA,04 - Administração,2610987,494526198.42,189.4
+Prefeitura Municipal de Belém - PA,04 - Administração,1367336,191482153.99,140.04
+Prefeitura Municipal de Natal - RN,04 - Administração,751932,90702782.1,120.63
+Prefeitura Municipal de Macapá - AP,05 - Defesa Nacional,478448,1828165.93,3.82
+Prefeitura Municipal de São Paulo - SP,05 - Defesa Nacional,12200180,346840.95,0.03
+Prefeitura Municipal de Manaus - AM,05 - Defesa Nacional,2054731,23256.1,0.01
+Prefeitura Municipal de Macapá - AP,06 - Segurança Pública,478448,120695982.83,252.27
+Prefeitura Municipal de Vitória - ES,06 - Segurança Pública,331785,72704715.53,219.13
+Prefeitura Municipal de Palmas - TO,06 - Segurança Pública,334454,72377757.29,216.41
+Prefeitura Municipal de Boa Vista - RR,06 - Segurança Pública,408157,81642629.48,200.03
+Prefeitura Municipal de Belo Horizonte - MG,06 - Segurança Pública,2392678,325388560.02,135.99
+Prefeitura Municipal de Fortaleza - CE,06 - Segurança Pública,2596157,334098316.37,128.69
+Prefeitura Municipal de São Paulo - SP,06 - Segurança Pública,12200180,1491832226.61,122.28
+Prefeitura Municipal de Florianópolis - SC,06 - Segurança Pública,574200,67321412.94,117.24
+Prefeitura Municipal do Rio de Janeiro - RJ,06 - Segurança Pública,6625849,745681439.61,112.54
+Prefeitura Municipal de Curitiba - PR,06 - Segurança Pública,1871789,185285871.96,98.99
+Prefeitura Municipal de Belém - PA,06 - Segurança Pública,1367336,129697535.2,94.85
+Prefeitura Municipal de Porto Alegre - RS,06 - Segurança Pública,1404269,97689433.14,69.57
+Prefeitura Municipal de Campo Grande - MS,06 - Segurança Pública,942140,60366561.71,64.07
+Prefeitura Municipal de Rio Branco - AC,06 - Segurança Pública,364368,23199495.92,63.67
+Prefeitura Municipal de Natal - RN,06 - Segurança Pública,751932,47735210.76,63.48
+Prefeitura Municipal de João Pessoa - PB,06 - Segurança Pública,889618,46770089.11,52.57
+Prefeitura Municipal de Salvador - BA,06 - Segurança Pública,2610987,112974559.11,43.27
+Prefeitura Municipal de Manaus - AM,06 - Segurança Pública,2054731,47625038.78,23.18
+Prefeitura Municipal de Cuiabá - MT,06 - Segurança Pública,694244,5617763.03,8.09
+Prefeitura Municipal de São Luís - MA,06 - Segurança Pública,1061374,4457120.64,4.2
+Prefeitura Municipal de Goiânia - GO,06 - Segurança Pública,1414483,3577174.07,2.53
+Prefeitura Municipal de Recife - PE,06 - Segurança Pública,1494586,2384161.93,1.6
+Prefeitura Municipal de Maceió - AL,06 - Segurança Pública,960667,954106.76,0.99
+Prefeitura Municipal de Teresina - PI,06 - Segurança Pública,868523,546522.07,0.63
+Prefeitura Municipal de Aracaju - SE,06 - Segurança Pública,605309,320514.96,0.53
+Prefeitura Municipal do Rio de Janeiro - RJ,07 - Relações Exteriores,6625849,38667800.45,5.84
+Prefeitura Municipal de São Paulo - SP,07 - Relações Exteriores,12200180,29098865.33,2.39
+Prefeitura Municipal de Vitória - ES,08 - Assistência Social,331785,101430031.09,305.71
+Prefeitura Municipal de Porto Alegre - RS,08 - Assistência Social,1404269,367123983.76,261.43
+Prefeitura Municipal de Boa Vista - RR,08 - Assistência Social,408157,90254646.71,221.13
+Prefeitura Municipal de Belém - PA,08 - Assistência Social,1367336,272104158.24,199.0
+Prefeitura Municipal de São Paulo - SP,08 - Assistência Social,12200180,2395878682.18,196.38
+Prefeitura Municipal de Florianópolis - SC,08 - Assistência Social,574200,107118132.66,186.55
+Prefeitura Municipal de Curitiba - PR,08 - Assistência Social,1871789,302927391.02,161.84
+Prefeitura Municipal de Belo Horizonte - MG,08 - Assistência Social,2392678,382071065.57,159.68
+Prefeitura Municipal de Campo Grande - MS,08 - Assistência Social,942140,147756961.23,156.83
+Prefeitura Municipal de Aracaju - SE,08 - Assistência Social,605309,85218335.67,140.78
+Prefeitura Municipal de Rio Branco - AC,08 - Assistência Social,364368,51276266.88,140.73
+Prefeitura Municipal do Rio de Janeiro - RJ,08 - Assistência Social,6625849,891597718.1,134.56
+Prefeitura Municipal de Palmas - TO,08 - Assistência Social,334454,43088268.14,128.83
+Prefeitura Municipal de Natal - RN,08 - Assistência Social,751932,90302814.37,120.09
+Prefeitura Municipal de Cuiabá - MT,08 - Assistência Social,694244,82979445.18,119.52
+Prefeitura Municipal de Salvador - BA,08 - Assistência Social,2610987,301406704.73,115.44
+Prefeitura Municipal de Manaus - AM,08 - Assistência Social,2054731,214734868.94,104.51
+Prefeitura Municipal de Recife - PE,08 - Assistência Social,1494586,151063611.94,101.07
+Prefeitura Municipal de Teresina - PI,08 - Assistência Social,868523,69863486.35,80.44
+Prefeitura Municipal de Fortaleza - CE,08 - Assistência Social,2596157,193276819.64,74.45
+Prefeitura Municipal de João Pessoa - PB,08 - Assistência Social,889618,64046243.9,71.99
+Prefeitura Municipal de São Luís - MA,08 - Assistência Social,1061374,66912457.33,63.04
+Prefeitura Municipal de Maceió - AL,08 - Assistência Social,960667,53487669.45,55.68
+Prefeitura Municipal de Macapá - AP,08 - Assistência Social,478448,25845043.86,54.02
+Prefeitura Municipal de Porto Velho - RO,08 - Assistência Social,461748,18366838.19,39.78
+Prefeitura Municipal de Goiânia - GO,08 - Assistência Social,1414483,25743032.5,18.2
+Prefeitura Municipal de Porto Alegre - RS,09 - Previdência Social,1404269,1917086312.06,1365.18
+Prefeitura Municipal de Vitória - ES,09 - Previdência Social,331785,406831927.4,1226.19
+Prefeitura Municipal de São Paulo - SP,09 - Previdência Social,12200180,14589115625.47,1195.81
+Prefeitura Municipal de Curitiba - PR,09 - Previdência Social,1871789,2001266894.96,1069.17
+Prefeitura Municipal do Rio de Janeiro - RJ,09 - Previdência Social,6625849,6260036852.91,944.79
+Prefeitura Municipal de Goiânia - GO,09 - Previdência Social,1414483,1173368828.06,829.54
+Prefeitura Municipal de Florianópolis - SC,09 - Previdência Social,574200,459126021.22,799.59
+Prefeitura Municipal de Belo Horizonte - MG,09 - Previdência Social,2392678,1803031351.79,753.56
+Prefeitura Municipal de Aracaju - SE,09 - Previdência Social,605309,423140206.45,699.05
+Prefeitura Municipal de Cuiabá - MT,09 - Previdência Social,694244,455287637.6,655.8
+Prefeitura Municipal de Campo Grande - MS,09 - Previdência Social,942140,607563812.94,644.88
+Prefeitura Municipal de Fortaleza - CE,09 - Previdência Social,2596157,1502276895.91,578.65
+Prefeitura Municipal de Teresina - PI,09 - Previdência Social,868523,487710941.48,561.54
+Prefeitura Municipal de Natal - RN,09 - Previdência Social,751932,421872302.92,561.05
+Prefeitura Municipal de Recife - PE,09 - Previdência Social,1494586,777367478.23,520.12
+Prefeitura Municipal de Maceió - AL,09 - Previdência Social,960667,486918379.65,506.85
+Prefeitura Municipal de João Pessoa - PB,09 - Previdência Social,889618,442818392.23,497.76
+Prefeitura Municipal de São Luís - MA,09 - Previdência Social,1061374,500496616.0,471.56
+Prefeitura Municipal de Porto Velho - RO,09 - Previdência Social,461748,215578737.57,466.88
+Prefeitura Municipal de Palmas - TO,09 - Previdência Social,334454,109944880.27,328.73
+Prefeitura Municipal de Macapá - AP,09 - Previdência Social,478448,151594288.46,316.85
+Prefeitura Municipal de Rio Branco - AC,09 - Previdência Social,364368,108665762.49,298.23
+Prefeitura Municipal de Manaus - AM,09 - Previdência Social,2054731,603916161.78,293.91
+Prefeitura Municipal de Salvador - BA,09 - Previdência Social,2610987,700126882.32,268.15
+Prefeitura Municipal de Boa Vista - RR,09 - Previdência Social,408157,52004061.24,127.41
+Prefeitura Municipal de Belém - PA,09 - Previdência Social,1367336,18797959.77,13.75
+Prefeitura Municipal de Belo Horizonte - MG,10 - Saúde,2392678,5391129586.4,2253.18
+Prefeitura Municipal de Teresina - PI,10 - Saúde,868523,1740078261.66,2003.49
+Prefeitura Municipal de Campo Grande - MS,10 - Saúde,942140,1750535980.59,1858.04
+Prefeitura Municipal de São Paulo - SP,10 - Saúde,12200180,21854464654.11,1791.32
+Prefeitura Municipal de Porto Alegre - RS,10 - Saúde,1404269,2443202864.91,1739.84
+Prefeitura Municipal de Natal - RN,10 - Saúde,751932,1276229987.07,1697.27
+Prefeitura Municipal de Curitiba - PR,10 - Saúde,1871789,3029796239.02,1618.66
+Prefeitura Municipal de Goiânia - GO,10 - Saúde,1414483,2068845703.41,1462.62
+Prefeitura Municipal de Cuiabá - MT,10 - Saúde,694244,1007145444.98,1450.71
+Prefeitura Municipal de Fortaleza - CE,10 - Saúde,2596157,3508508267.82,1351.42
+Prefeitura Municipal de Vitória - ES,10 - Saúde,331785,447824735.03,1349.74
+Prefeitura Municipal de João Pessoa - PB,10 - Saúde,889618,1175293238.46,1321.12
+Prefeitura Municipal de Maceió - AL,10 - Saúde,960667,1262955548.42,1314.67
+Prefeitura Municipal de Recife - PE,10 - Saúde,1494586,1910772845.55,1278.46
+Prefeitura Municipal de Boa Vista - RR,10 - Saúde,408157,499842195.47,1224.63
+Prefeitura Municipal de São Luís - MA,10 - Saúde,1061374,1291047714.74,1216.39
+Prefeitura Municipal de Porto Velho - RO,10 - Saúde,461748,557351608.23,1207.05
+Prefeitura Municipal de Palmas - TO,10 - Saúde,334454,376173922.36,1124.74
+Prefeitura Municipal de Salvador - BA,10 - Saúde,2610987,2861717678.29,1096.03
+Prefeitura Municipal do Rio de Janeiro - RJ,10 - Saúde,6625849,7093295406.04,1070.55
+Prefeitura Municipal de Belém - PA,10 - Saúde,1367336,1441659055.31,1054.36
+Prefeitura Municipal de Aracaju - SE,10 - Saúde,605309,632194641.47,1044.42
+Prefeitura Municipal de Florianópolis - SC,10 - Saúde,574200,550128741.08,958.08
+Prefeitura Municipal de Macapá - AP,10 - Saúde,478448,435678290.25,910.61
+Prefeitura Municipal de Rio Branco - AC,10 - Saúde,364368,315016994.52,864.56
+Prefeitura Municipal de Manaus - AM,10 - Saúde,2054731,1637646138.68,797.01
+Prefeitura Municipal de Campo Grande - MS,11 - Trabalho,942140,68173110.18,72.36
+Prefeitura Municipal de São Paulo - SP,11 - Trabalho,12200180,467314058.81,38.3
+Prefeitura Municipal de Manaus - AM,11 - Trabalho,2054731,45471746.02,22.13
+Prefeitura Municipal do Rio de Janeiro - RJ,11 - Trabalho,6625849,143382938.71,21.64
+Prefeitura Municipal de Cuiabá - MT,11 - Trabalho,694244,14342723.56,20.66
+Prefeitura Municipal de Rio Branco - AC,11 - Trabalho,364368,6778837.11,18.6
+Prefeitura Municipal de Aracaju - SE,11 - Trabalho,605309,9585022.69,15.83
+Prefeitura Municipal de Salvador - BA,11 - Trabalho,2610987,36890555.24,14.13
+Prefeitura Municipal de Macapá - AP,11 - Trabalho,478448,6677064.48,13.96
+Prefeitura Municipal de Recife - PE,11 - Trabalho,1494586,20583200.86,13.77
+Prefeitura Municipal de Maceió - AL,11 - Trabalho,960667,10672032.0,11.11
+Prefeitura Municipal de Fortaleza - CE,11 - Trabalho,2596157,27640931.46,10.65
+Prefeitura Municipal de João Pessoa - PB,11 - Trabalho,889618,6870880.81,7.72
+Prefeitura Municipal de Teresina - PI,11 - Trabalho,868523,6690509.12,7.7
+Prefeitura Municipal de Palmas - TO,11 - Trabalho,334454,1885261.56,5.64
+Prefeitura Municipal de Belém - PA,11 - Trabalho,1367336,7120022.95,5.21
+Prefeitura Municipal de Porto Velho - RO,11 - Trabalho,461748,1269504.88,2.75
+Prefeitura Municipal de Belo Horizonte - MG,11 - Trabalho,2392678,5477330.5,2.29
+Prefeitura Municipal de Porto Alegre - RS,11 - Trabalho,1404269,2185331.13,1.56
+Prefeitura Municipal de Florianópolis - SC,11 - Trabalho,574200,859340.34,1.5
+Prefeitura Municipal de Curitiba - PR,11 - Trabalho,1871789,2374334.32,1.27
+Prefeitura Municipal de Vitória - ES,11 - Trabalho,331785,66319.08,0.2
+Prefeitura Municipal de Vitória - ES,12 - Educação,331785,740591170.17,2232.14
+Prefeitura Municipal de São Paulo - SP,12 - Educação,12200180,22301640088.44,1827.98
+Prefeitura Municipal de Palmas - TO,12 - Educação,334454,605359691.88,1809.99
+Prefeitura Municipal de Boa Vista - RR,12 - Educação,408157,657546410.76,1611.01
+Prefeitura Municipal de Florianópolis - SC,12 - Educação,574200,840749208.12,1464.21
+Prefeitura Municipal de Campo Grande - MS,12 - Educação,942140,1331907104.3,1413.7
+Prefeitura Municipal de Manaus - AM,12 - Educação,2054731,2664634072.18,1296.83
+Prefeitura Municipal de Belo Horizonte - MG,12 - Educação,2392678,3023311311.88,1263.57
+Prefeitura Municipal de Porto Velho - RO,12 - Educação,461748,562896452.2,1219.06
+Prefeitura Municipal de Goiânia - GO,12 - Educação,1414483,1717145321.53,1213.97
+Prefeitura Municipal de Recife - PE,12 - Educação,1494586,1733169124.07,1159.63
+Prefeitura Municipal de Fortaleza - CE,12 - Educação,2596157,2881019379.76,1109.72
+Prefeitura Municipal de Curitiba - PR,12 - Educação,1871789,2046785327.24,1093.49
+Prefeitura Municipal de Cuiabá - MT,12 - Educação,694244,706813377.65,1018.11
+Prefeitura Municipal de Teresina - PI,12 - Educação,868523,883569386.64,1017.32
+Prefeitura Municipal do Rio de Janeiro - RJ,12 - Educação,6625849,6475560709.52,977.32
+Prefeitura Municipal de São Luís - MA,12 - Educação,1061374,1017519651.53,958.68
+Prefeitura Municipal de Salvador - BA,12 - Educação,2610987,2498360333.28,956.86
+Prefeitura Municipal de Macapá - AP,12 - Educação,478448,450811306.25,942.24
+Prefeitura Municipal de Rio Branco - AC,12 - Educação,364368,338125234.01,927.98
+Prefeitura Municipal de João Pessoa - PB,12 - Educação,889618,785470986.59,882.93
+Prefeitura Municipal de Aracaju - SE,12 - Educação,605309,530480659.42,876.38
+Prefeitura Municipal de Natal - RN,12 - Educação,751932,576263140.18,766.38
+Prefeitura Municipal de Porto Alegre - RS,12 - Educação,1404269,1018056039.67,724.97
+Prefeitura Municipal de Maceió - AL,12 - Educação,960667,687560500.43,715.71
+Prefeitura Municipal de Belém - PA,12 - Educação,1367336,860312628.95,629.19
+Prefeitura Municipal de Boa Vista - RR,13 - Cultura,408157,56043351.85,137.31
+Prefeitura Municipal de Recife - PE,13 - Cultura,1494586,201027489.41,134.5
+Prefeitura Municipal de Macapá - AP,13 - Cultura,478448,47760771.85,99.82
+Prefeitura Municipal de São Paulo - SP,13 - Cultura,12200180,1033316515.82,84.7
+Prefeitura Municipal de São Luís - MA,13 - Cultura,1061374,87900667.25,82.82
+Prefeitura Municipal de Natal - RN,13 - Cultura,751932,56580941.68,75.25
+Prefeitura Municipal de Maceió - AL,13 - Cultura,960667,70896312.38,73.8
+Prefeitura Municipal de Manaus - AM,13 - Cultura,2054731,132460091.15,64.47
+Prefeitura Municipal de Vitória - ES,13 - Cultura,331785,21043718.77,63.43
+Prefeitura Municipal de Palmas - TO,13 - Cultura,334454,20518193.49,61.35
+Prefeitura Municipal de Curitiba - PR,13 - Cultura,1871789,113805076.83,60.8
+Prefeitura Municipal de Fortaleza - CE,13 - Cultura,2596157,143168240.2,55.15
+Prefeitura Municipal de Porto Velho - RO,13 - Cultura,461748,20928380.19,45.32
+Prefeitura Municipal de Porto Alegre - RS,13 - Cultura,1404269,61202403.7,43.58
+Prefeitura Municipal de Belo Horizonte - MG,13 - Cultura,2392678,101992125.2,42.63
+Prefeitura Municipal de Aracaju - SE,13 - Cultura,605309,25168119.3,41.58
+Prefeitura Municipal de Cuiabá - MT,13 - Cultura,694244,28568418.56,41.15
+Prefeitura Municipal do Rio de Janeiro - RJ,13 - Cultura,6625849,259884490.91,39.22
+Prefeitura Municipal de Florianópolis - SC,13 - Cultura,574200,21124507.75,36.79
+Prefeitura Municipal de Teresina - PI,13 - Cultura,868523,30916258.54,35.6
+Prefeitura Municipal de Rio Branco - AC,13 - Cultura,364368,12139403.25,33.32
+Prefeitura Municipal de Salvador - BA,13 - Cultura,2610987,83592975.78,32.02
+Prefeitura Municipal de João Pessoa - PB,13 - Cultura,889618,27929428.75,31.39
+Prefeitura Municipal de Campo Grande - MS,13 - Cultura,942140,22155941.55,23.52
+Prefeitura Municipal de Belém - PA,13 - Cultura,1367336,21079226.65,15.42
+Prefeitura Municipal de Goiânia - GO,13 - Cultura,1414483,4032134.05,2.85
+Prefeitura Municipal de Recife - PE,14 - Direitos da Cidadania,1494586,128291315.95,85.84
+Prefeitura Municipal de São Paulo - SP,14 - Direitos da Cidadania,12200180,674748049.25,55.31
+Prefeitura Municipal de Campo Grande - MS,14 - Direitos da Cidadania,942140,25981517.16,27.58
+Prefeitura Municipal de Vitória - ES,14 - Direitos da Cidadania,331785,7876607.59,23.74
+Prefeitura Municipal de Belo Horizonte - MG,14 - Direitos da Cidadania,2392678,50133853.63,20.95
+Prefeitura Municipal de Manaus - AM,14 - Direitos da Cidadania,2054731,37652497.05,18.32
+Prefeitura Municipal de Fortaleza - CE,14 - Direitos da Cidadania,2596157,47293386.28,18.22
+Prefeitura Municipal do Rio de Janeiro - RJ,14 - Direitos da Cidadania,6625849,101080405.8,15.26
+Prefeitura Municipal de Salvador - BA,14 - Direitos da Cidadania,2610987,34613772.77,13.26
+Prefeitura Municipal de Palmas - TO,14 - Direitos da Cidadania,334454,4221534.19,12.62
+Prefeitura Municipal de Porto Alegre - RS,14 - Direitos da Cidadania,1404269,17329187.56,12.34
+Prefeitura Municipal de Maceió - AL,14 - Direitos da Cidadania,960667,11587809.3,12.06
+Prefeitura Municipal de Goiânia - GO,14 - Direitos da Cidadania,1414483,14677299.1,10.38
+Prefeitura Municipal de João Pessoa - PB,14 - Direitos da Cidadania,889618,8348061.77,9.38
+Prefeitura Municipal de São Luís - MA,14 - Direitos da Cidadania,1061374,8498259.81,8.01
+Prefeitura Municipal de Cuiabá - MT,14 - Direitos da Cidadania,694244,5193275.7,7.48
+Prefeitura Municipal de Macapá - AP,14 - Direitos da Cidadania,478448,3105397.56,6.49
+Prefeitura Municipal de Rio Branco - AC,14 - Direitos da Cidadania,364368,1286864.21,3.53
+Prefeitura Municipal de Boa Vista - RR,14 - Direitos da Cidadania,408157,1275690.92,3.13
+Prefeitura Municipal de Florianópolis - SC,14 - Direitos da Cidadania,574200,1616826.34,2.82
+Prefeitura Municipal de Aracaju - SE,14 - Direitos da Cidadania,605309,1070855.78,1.77
+Prefeitura Municipal de Teresina - PI,14 - Direitos da Cidadania,868523,1532048.97,1.76
+Prefeitura Municipal de Curitiba - PR,14 - Direitos da Cidadania,1871789,807681.41,0.43
+Prefeitura Municipal de Belém - PA,14 - Direitos da Cidadania,1367336,211600.0,0.15
+Prefeitura Municipal de Vitória - ES,15 - Urbanismo,331785,566316104.05,1706.88
+Prefeitura Municipal de Rio Branco - AC,15 - Urbanismo,364368,437294307.95,1200.14
+Prefeitura Municipal de Recife - PE,15 - Urbanismo,1494586,1615459431.59,1080.87
+Prefeitura Municipal de Manaus - AM,15 - Urbanismo,2054731,2207730707.15,1074.46
+Prefeitura Municipal de Salvador - BA,15 - Urbanismo,2610987,2628687028.0,1006.78
+Prefeitura Municipal de São Paulo - SP,15 - Urbanismo,12200180,10203722086.42,836.36
+Prefeitura Municipal de Natal - RN,15 - Urbanismo,751932,621467094.73,826.49
+Prefeitura Municipal de Boa Vista - RR,15 - Urbanismo,408157,323196710.84,791.84
+Prefeitura Municipal de Teresina - PI,15 - Urbanismo,868523,658866511.86,758.61
+Prefeitura Municipal de Palmas - TO,15 - Urbanismo,334454,243468149.28,727.96
+Prefeitura Municipal do Rio de Janeiro - RJ,15 - Urbanismo,6625849,4398162807.02,663.79
+Prefeitura Municipal de Maceió - AL,15 - Urbanismo,960667,621941177.29,647.41
+Prefeitura Municipal de Macapá - AP,15 - Urbanismo,478448,306169969.28,639.92
+Prefeitura Municipal de Aracaju - SE,15 - Urbanismo,605309,341095595.9,563.51
+Prefeitura Municipal de Porto Velho - RO,15 - Urbanismo,461748,259121674.85,561.18
+Prefeitura Municipal de Fortaleza - CE,15 - Urbanismo,2596157,1446782353.47,557.28
+Prefeitura Municipal de Curitiba - PR,15 - Urbanismo,1871789,982059804.58,524.66
+Prefeitura Municipal de São Luís - MA,15 - Urbanismo,1061374,554153799.19,522.11
+Prefeitura Municipal de Campo Grande - MS,15 - Urbanismo,942140,461440758.67,489.78
+Prefeitura Municipal de João Pessoa - PB,15 - Urbanismo,889618,421060615.74,473.3
+Prefeitura Municipal de Florianópolis - SC,15 - Urbanismo,574200,269141057.25,468.72
+Prefeitura Municipal de Belo Horizonte - MG,15 - Urbanismo,2392678,944967850.93,394.94
+Prefeitura Municipal de Cuiabá - MT,15 - Urbanismo,694244,269589023.99,388.32
+Prefeitura Municipal de Belém - PA,15 - Urbanismo,1367336,430372275.36,314.75
+Prefeitura Municipal de Porto Alegre - RS,15 - Urbanismo,1404269,297214100.2,211.65
+Prefeitura Municipal de Goiânia - GO,15 - Urbanismo,1414483,81471549.39,57.6
+Prefeitura Municipal de São Paulo - SP,16 - Habitação,12200180,4760425320.14,390.19
+Prefeitura Municipal de Aracaju - SE,16 - Habitação,605309,79823795.79,131.87
+Prefeitura Municipal de Belém - PA,16 - Habitação,1367336,163200314.55,119.36
+Prefeitura Municipal de João Pessoa - PB,16 - Habitação,889618,86373720.69,97.09
+Prefeitura Municipal de Belo Horizonte - MG,16 - Habitação,2392678,147091418.19,61.48
+Prefeitura Municipal de Salvador - BA,16 - Habitação,2610987,114298168.23,43.78
+Prefeitura Municipal de Porto Alegre - RS,16 - Habitação,1404269,48133817.55,34.28
+Prefeitura Municipal de Vitória - ES,16 - Habitação,331785,11144098.02,33.59
+Prefeitura Municipal de Campo Grande - MS,16 - Habitação,942140,29452267.64,31.26
+Prefeitura Municipal do Rio de Janeiro - RJ,16 - Habitação,6625849,196156560.8,29.6
+Prefeitura Municipal de Goiânia - GO,16 - Habitação,1414483,40547203.57,28.67
+Prefeitura Municipal de Palmas - TO,16 - Habitação,334454,8620884.81,25.78
+Prefeitura Municipal de Cuiabá - MT,16 - Habitação,694244,14066158.85,20.26
+Prefeitura Municipal de Teresina - PI,16 - Habitação,868523,14697268.11,16.92
+Prefeitura Municipal de Fortaleza - CE,16 - Habitação,2596157,40831439.21,15.73
+Prefeitura Municipal de Rio Branco - AC,16 - Habitação,364368,4567163.87,12.53
+Prefeitura Municipal de Curitiba - PR,16 - Habitação,1871789,21807627.41,11.65
+Prefeitura Municipal de Porto Velho - RO,16 - Habitação,461748,4922263.03,10.66
+Prefeitura Municipal de Manaus - AM,16 - Habitação,2054731,17890865.45,8.71
+Prefeitura Municipal de Recife - PE,16 - Habitação,1494586,12609674.12,8.44
+Prefeitura Municipal de Natal - RN,16 - Habitação,751932,4154641.15,5.53
+Prefeitura Municipal de Florianópolis - SC,16 - Habitação,574200,2822565.9,4.92
+Prefeitura Municipal de Boa Vista - RR,16 - Habitação,408157,738021.43,1.81
+Prefeitura Municipal de Maceió - AL,16 - Habitação,960667,649674.84,0.68
+Prefeitura Municipal de Porto Alegre - RS,17 - Saneamento,1404269,1146938924.8,816.75
+Prefeitura Municipal de Belém - PA,17 - Saneamento,1367336,745006745.96,544.86
+Prefeitura Municipal de Goiânia - GO,17 - Saneamento,1414483,690618042.65,488.25
+Prefeitura Municipal de Maceió - AL,17 - Saneamento,960667,320724684.28,333.86
+Prefeitura Municipal de Belo Horizonte - MG,17 - Saneamento,2392678,693610252.14,289.89
+Prefeitura Municipal de Rio Branco - AC,17 - Saneamento,364368,102200358.57,280.49
+Prefeitura Municipal de São Luís - MA,17 - Saneamento,1061374,272625791.94,256.86
+Prefeitura Municipal de Curitiba - PR,17 - Saneamento,1871789,354685557.19,189.49
+Prefeitura Municipal de São Paulo - SP,17 - Saneamento,12200180,2022166546.08,165.75
+Prefeitura Municipal de Palmas - TO,17 - Saneamento,334454,53716419.8,160.61
+Prefeitura Municipal de Florianópolis - SC,17 - Saneamento,574200,89165305.34,155.29
+Prefeitura Municipal do Rio de Janeiro - RJ,17 - Saneamento,6625849,1012104196.59,152.75
+Prefeitura Municipal de Vitória - ES,17 - Saneamento,331785,41891471.38,126.26
+Prefeitura Municipal de Aracaju - SE,17 - Saneamento,605309,69277398.14,114.45
+Prefeitura Municipal de Recife - PE,17 - Saneamento,1494586,155960876.08,104.35
+Prefeitura Municipal de Macapá - AP,17 - Saneamento,478448,33649562.37,70.33
+Prefeitura Municipal de Porto Velho - RO,17 - Saneamento,461748,14932625.85,32.34
+Prefeitura Municipal de Fortaleza - CE,17 - Saneamento,2596157,70949826.31,27.33
+Prefeitura Municipal de Boa Vista - RR,17 - Saneamento,408157,11067761.59,27.12
+Prefeitura Municipal de Manaus - AM,17 - Saneamento,2054731,34795248.56,16.93
+Prefeitura Municipal de Cuiabá - MT,17 - Saneamento,694244,10782268.62,15.53
+Prefeitura Municipal de Salvador - BA,17 - Saneamento,2610987,23085648.3,8.84
+Prefeitura Municipal de João Pessoa - PB,17 - Saneamento,889618,3957663.04,4.45
+Prefeitura Municipal de Teresina - PI,17 - Saneamento,868523,1586615.17,1.83
+Prefeitura Municipal de Aracaju - SE,18 - Gestão Ambiental,605309,226366081.2,373.97
+Prefeitura Municipal de Vitória - ES,18 - Gestão Ambiental,331785,77410153.23,233.31
+Prefeitura Municipal de Curitiba - PR,18 - Gestão Ambiental,1871789,195420938.57,104.4
+Prefeitura Municipal de São Paulo - SP,18 - Gestão Ambiental,12200180,1002412284.04,82.16
+Prefeitura Municipal de Florianópolis - SC,18 - Gestão Ambiental,574200,43976506.49,76.59
+Prefeitura Municipal de Belo Horizonte - MG,18 - Gestão Ambiental,2392678,151669473.6,63.39
+Prefeitura Municipal de Boa Vista - RR,18 - Gestão Ambiental,408157,23505016.84,57.59
+Prefeitura Municipal de Rio Branco - AC,18 - Gestão Ambiental,364368,16414003.43,45.05
+Prefeitura Municipal de João Pessoa - PB,18 - Gestão Ambiental,889618,39079787.9,43.93
+Prefeitura Municipal de Fortaleza - CE,18 - Gestão Ambiental,2596157,97571164.56,37.58
+Prefeitura Municipal do Rio de Janeiro - RJ,18 - Gestão Ambiental,6625849,229894479.17,34.7
+Prefeitura Municipal de Campo Grande - MS,18 - Gestão Ambiental,942140,32485789.23,34.48
+Prefeitura Municipal de Macapá - AP,18 - Gestão Ambiental,478448,13851607.9,28.95
+Prefeitura Municipal de Palmas - TO,18 - Gestão Ambiental,334454,8593428.06,25.69
+Prefeitura Municipal de Porto Velho - RO,18 - Gestão Ambiental,461748,11298356.0,24.47
+Prefeitura Municipal de Porto Alegre - RS,18 - Gestão Ambiental,1404269,32979580.51,23.49
+Prefeitura Municipal de Salvador - BA,18 - Gestão Ambiental,2610987,49294566.91,18.88
+Prefeitura Municipal de Belém - PA,18 - Gestão Ambiental,1367336,20468774.9,14.97
+Prefeitura Municipal de Manaus - AM,18 - Gestão Ambiental,2054731,28093738.9,13.67
+Prefeitura Municipal de Recife - PE,18 - Gestão Ambiental,1494586,18888255.77,12.64
+Prefeitura Municipal de Cuiabá - MT,18 - Gestão Ambiental,694244,8254795.51,11.89
+Prefeitura Municipal de Natal - RN,18 - Gestão Ambiental,751932,5390327.86,7.17
+Prefeitura Municipal de Goiânia - GO,18 - Gestão Ambiental,1414483,3644969.37,2.58
+Prefeitura Municipal de Teresina - PI,18 - Gestão Ambiental,868523,1576162.65,1.81
+Prefeitura Municipal de Maceió - AL,18 - Gestão Ambiental,960667,939210.55,0.98
+Prefeitura Municipal de São Luís - MA,18 - Gestão Ambiental,1061374,115626.44,0.11
+Prefeitura Municipal de Belo Horizonte - MG,19 - Ciência e Tecnologia,2392678,132677131.45,55.45
+Prefeitura Municipal de Salvador - BA,19 - Ciência e Tecnologia,2610987,119311248.54,45.7
+Prefeitura Municipal de Belém - PA,19 - Ciência e Tecnologia,1367336,31696129.76,23.18
+Prefeitura Municipal de Porto Velho - RO,19 - Ciência e Tecnologia,461748,5668139.3,12.28
+Prefeitura Municipal de Goiânia - GO,19 - Ciência e Tecnologia,1414483,14927563.41,10.55
+Prefeitura Municipal do Rio de Janeiro - RJ,19 - Ciência e Tecnologia,6625849,67838293.53,10.24
+Prefeitura Municipal de Vitória - ES,19 - Ciência e Tecnologia,331785,2165709.49,6.53
+Prefeitura Municipal de João Pessoa - PB,19 - Ciência e Tecnologia,889618,5221807.33,5.87
+Prefeitura Municipal de Maceió - AL,19 - Ciência e Tecnologia,960667,4818988.86,5.02
+Prefeitura Municipal de Recife - PE,19 - Ciência e Tecnologia,1494586,6277022.59,4.2
+Prefeitura Municipal de Fortaleza - CE,19 - Ciência e Tecnologia,2596157,9873126.47,3.8
+Prefeitura Municipal de Campo Grande - MS,19 - Ciência e Tecnologia,942140,1789808.41,1.9
+Prefeitura Municipal de Aracaju - SE,19 - Ciência e Tecnologia,605309,781314.81,1.29
+Prefeitura Municipal de Porto Alegre - RS,19 - Ciência e Tecnologia,1404269,1179146.15,0.84
+Prefeitura Municipal de São Paulo - SP,19 - Ciência e Tecnologia,12200180,10109898.7,0.83
+Prefeitura Municipal de Rio Branco - AC,19 - Ciência e Tecnologia,364368,241220.73,0.66
+Prefeitura Municipal de Rio Branco - AC,20 - Agricultura,364368,59343898.84,162.87
+Prefeitura Municipal de Palmas - TO,20 - Agricultura,334454,32366334.74,96.77
+Prefeitura Municipal de Porto Velho - RO,20 - Agricultura,461748,30576803.83,66.22
+Prefeitura Municipal de Boa Vista - RR,20 - Agricultura,408157,19947850.92,48.87
+Prefeitura Municipal de Manaus - AM,20 - Agricultura,2054731,16954082.52,8.25
+Prefeitura Municipal de Campo Grande - MS,20 - Agricultura,942140,7273918.9,7.72
+Prefeitura Municipal de Macapá - AP,20 - Agricultura,478448,3165204.02,6.62
+Prefeitura Municipal de São Luís - MA,20 - Agricultura,1061374,2291631.27,2.16
+Prefeitura Municipal de Cuiabá - MT,20 - Agricultura,694244,838648.83,1.21
+Prefeitura Municipal de Belo Horizonte - MG,20 - Agricultura,2392678,2683274.84,1.12
+Prefeitura Municipal de João Pessoa - PB,20 - Agricultura,889618,484752.82,0.54
+Prefeitura Municipal de Porto Alegre - RS,20 - Agricultura,1404269,506347.93,0.36
+Prefeitura Municipal de São Paulo - SP,20 - Agricultura,12200180,3571780.0,0.29
+Prefeitura Municipal de Salvador - BA,20 - Agricultura,2610987,457110.0,0.18
+Prefeitura Municipal de Teresina - PI,20 - Agricultura,868523,159370.58,0.18
+Prefeitura Municipal de Salvador - BA,22 - Indústria,2610987,30671399.72,11.75
+Prefeitura Municipal do Rio de Janeiro - RJ,22 - Indústria,6625849,7292850.01,1.1
+Prefeitura Municipal de Curitiba - PR,22 - Indústria,1871789,200000.0,0.11
+Prefeitura Municipal de Salvador - BA,23 - Comércio e Serviços,2610987,341914518.08,130.95
+Prefeitura Municipal de Curitiba - PR,23 - Comércio e Serviços,1871789,204616577.34,109.32
+Prefeitura Municipal de Palmas - TO,23 - Comércio e Serviços,334454,25237038.13,75.46
+Prefeitura Municipal de São Paulo - SP,23 - Comércio e Serviços,12200180,856756562.46,70.22
+Prefeitura Municipal de Recife - PE,23 - Comércio e Serviços,1494586,74852345.28,50.08
+Prefeitura Municipal de Maceió - AL,23 - Comércio e Serviços,960667,39903910.76,41.54
+Prefeitura Municipal de Belo Horizonte - MG,23 - Comércio e Serviços,2392678,79136741.18,33.07
+Prefeitura Municipal de Belém - PA,23 - Comércio e Serviços,1367336,36158409.75,26.44
+Prefeitura Municipal de Cuiabá - MT,23 - Comércio e Serviços,694244,18206835.54,26.23
+Prefeitura Municipal do Rio de Janeiro - RJ,23 - Comércio e Serviços,6625849,163789000.48,24.72
+Prefeitura Municipal de Vitória - ES,23 - Comércio e Serviços,331785,7804478.54,23.52
+Prefeitura Municipal de Manaus - AM,23 - Comércio e Serviços,2054731,34584289.54,16.83
+Prefeitura Municipal de Aracaju - SE,23 - Comércio e Serviços,605309,9834174.8,16.25
+Prefeitura Municipal de Boa Vista - RR,23 - Comércio e Serviços,408157,4715908.4,11.55
+Prefeitura Municipal de Natal - RN,23 - Comércio e Serviços,751932,4508925.46,6.0
+Prefeitura Municipal de Macapá - AP,23 - Comércio e Serviços,478448,2354698.81,4.92
+Prefeitura Municipal de Goiânia - GO,23 - Comércio e Serviços,1414483,6546040.79,4.63
+Prefeitura Municipal de Teresina - PI,23 - Comércio e Serviços,868523,2938147.55,3.38
+Prefeitura Municipal de Porto Velho - RO,23 - Comércio e Serviços,461748,1471265.0,3.19
+Prefeitura Municipal de Fortaleza - CE,23 - Comércio e Serviços,2596157,7381160.91,2.84
+Prefeitura Municipal de João Pessoa - PB,23 - Comércio e Serviços,889618,2477044.22,2.78
+Prefeitura Municipal de Porto Alegre - RS,23 - Comércio e Serviços,1404269,3765662.55,2.68
+Prefeitura Municipal de Campo Grande - MS,23 - Comércio e Serviços,942140,1478736.09,1.57
+Prefeitura Municipal de São Luís - MA,23 - Comércio e Serviços,1061374,559164.13,0.53
+Prefeitura Municipal de Rio Branco - AC,23 - Comércio e Serviços,364368,17600.0,0.05
+Prefeitura Municipal de Palmas - TO,24 - Comunicações,334454,38884729.95,116.26
+Prefeitura Municipal de Salvador - BA,24 - Comunicações,2610987,106388920.71,40.75
+Prefeitura Municipal de São Paulo - SP,24 - Comunicações,12200180,303084932.43,24.84
+Prefeitura Municipal de João Pessoa - PB,24 - Comunicações,889618,13858664.07,15.58
+Prefeitura Municipal de Vitória - ES,24 - Comunicações,331785,5091425.6,15.35
+Prefeitura Municipal de Belém - PA,24 - Comunicações,1367336,13313729.48,9.74
+Prefeitura Municipal de Campo Grande - MS,24 - Comunicações,942140,6113685.39,6.49
+Prefeitura Municipal de Fortaleza - CE,24 - Comunicações,2596157,2352528.96,0.91
+Prefeitura Municipal de Fortaleza - CE,25 - Energia,2596157,186804206.58,71.95
+Prefeitura Municipal de João Pessoa - PB,25 - Energia,889618,28713555.96,32.28
+Prefeitura Municipal de Aracaju - SE,25 - Energia,605309,18658546.87,30.82
+Prefeitura Municipal de São Paulo - SP,26 - Transporte,12200180,10543452167.35,864.2
+Prefeitura Municipal de Belo Horizonte - MG,26 - Transporte,2392678,1060584773.3,443.26
+Prefeitura Municipal de Goiânia - GO,26 - Transporte,1414483,524377860.54,370.72
+Prefeitura Municipal do Rio de Janeiro - RJ,26 - Transporte,6625849,2155713525.78,325.35
+Prefeitura Municipal de Palmas - TO,26 - Transporte,334454,104784358.74,313.3
+Prefeitura Municipal de Manaus - AM,26 - Transporte,2054731,519375411.45,252.77
+Prefeitura Municipal de Porto Alegre - RS,26 - Transporte,1404269,298070661.65,212.26
+Prefeitura Municipal de Rio Branco - AC,26 - Transporte,364368,71409067.79,195.98
+Prefeitura Municipal de Campo Grande - MS,26 - Transporte,942140,184503644.77,195.83
+Prefeitura Municipal de Boa Vista - RR,26 - Transporte,408157,57543647.69,140.98
+Prefeitura Municipal de Aracaju - SE,26 - Transporte,605309,76529011.54,126.43
+Prefeitura Municipal de Salvador - BA,26 - Transporte,2610987,306539442.97,117.4
+Prefeitura Municipal de Maceió - AL,26 - Transporte,960667,110968975.0,115.51
+Prefeitura Municipal de São Luís - MA,26 - Transporte,1061374,115317724.02,108.65
+Prefeitura Municipal de Fortaleza - CE,26 - Transporte,2596157,231706218.73,89.25
+Prefeitura Municipal de Cuiabá - MT,26 - Transporte,694244,60183005.86,86.69
+Prefeitura Municipal de Teresina - PI,26 - Transporte,868523,68571366.79,78.95
+Prefeitura Municipal de Belém - PA,26 - Transporte,1367336,86033117.42,62.92
+Prefeitura Municipal de Macapá - AP,26 - Transporte,478448,27461260.58,57.4
+Prefeitura Municipal de Florianópolis - SC,26 - Transporte,574200,32705155.21,56.96
+Prefeitura Municipal de João Pessoa - PB,26 - Transporte,889618,35949967.0,40.41
+Prefeitura Municipal de Porto Velho - RO,26 - Transporte,461748,1377877.57,2.98
+Prefeitura Municipal de São Paulo - SP,27 - Desporto e Lazer,12200180,700778733.25,57.44
+Prefeitura Municipal de Vitória - ES,27 - Desporto e Lazer,331785,18291003.84,55.13
+Prefeitura Municipal do Rio de Janeiro - RJ,27 - Desporto e Lazer,6625849,251157933.71,37.91
+Prefeitura Municipal de Palmas - TO,27 - Desporto e Lazer,334454,12515544.76,37.42
+Prefeitura Municipal de Recife - PE,27 - Desporto e Lazer,1494586,53266603.16,35.64
+Prefeitura Municipal de Salvador - BA,27 - Desporto e Lazer,2610987,91183546.47,34.92
+Prefeitura Municipal de Curitiba - PR,27 - Desporto e Lazer,1871789,59603153.1,31.84
+Prefeitura Municipal de Boa Vista - RR,27 - Desporto e Lazer,408157,12638442.81,30.96
+Prefeitura Municipal de Goiânia - GO,27 - Desporto e Lazer,1414483,35873366.58,25.36
+Prefeitura Municipal de Aracaju - SE,27 - Desporto e Lazer,605309,14858306.54,24.55
+Prefeitura Municipal de Porto Velho - RO,27 - Desporto e Lazer,461748,10887139.38,23.58
+Prefeitura Municipal de Campo Grande - MS,27 - Desporto e Lazer,942140,18145622.11,19.26
+Prefeitura Municipal de Maceió - AL,27 - Desporto e Lazer,960667,15698671.77,16.34
+Prefeitura Municipal de Florianópolis - SC,27 - Desporto e Lazer,574200,8425661.95,14.67
+Prefeitura Municipal de Rio Branco - AC,27 - Desporto e Lazer,364368,4955295.16,13.6
+Prefeitura Municipal de Natal - RN,27 - Desporto e Lazer,751932,9385155.7,12.48
+Prefeitura Municipal de João Pessoa - PB,27 - Desporto e Lazer,889618,11094947.88,12.47
+Prefeitura Municipal de Manaus - AM,27 - Desporto e Lazer,2054731,24984911.93,12.16
+Prefeitura Municipal de Belo Horizonte - MG,27 - Desporto e Lazer,2392678,27880481.82,11.65
+Prefeitura Municipal de Teresina - PI,27 - Desporto e Lazer,868523,9620717.74,11.08
+Prefeitura Municipal de Fortaleza - CE,27 - Desporto e Lazer,2596157,19147794.74,7.38
+Prefeitura Municipal de Macapá - AP,27 - Desporto e Lazer,478448,3521255.0,7.36
+Prefeitura Municipal de Belém - PA,27 - Desporto e Lazer,1367336,7809759.78,5.71
+Prefeitura Municipal de Cuiabá - MT,27 - Desporto e Lazer,694244,3854072.77,5.55
+Prefeitura Municipal de Porto Alegre - RS,27 - Desporto e Lazer,1404269,5882971.37,4.19
+Prefeitura Municipal de São Luís - MA,27 - Desporto e Lazer,1061374,3050101.8,2.87
+Prefeitura Municipal de Recife - PE,28 - Encargos Especiais,1494586,988576852.54,661.44
+Prefeitura Municipal de Belém - PA,28 - Encargos Especiais,1367336,856766204.02,626.6
+Prefeitura Municipal de Belo Horizonte - MG,28 - Encargos Especiais,2392678,1287246954.02,537.99
+Prefeitura Municipal do Rio de Janeiro - RJ,28 - Encargos Especiais,6625849,3209309197.63,484.36
+Prefeitura Municipal de Manaus - AM,28 - Encargos Especiais,2054731,988650380.91,481.16
+Prefeitura Municipal de Vitória - ES,28 - Encargos Especiais,331785,146341201.1,441.07
+Prefeitura Municipal de São Paulo - SP,28 - Encargos Especiais,12200180,4571143866.63,374.68
+Prefeitura Municipal de Goiânia - GO,28 - Encargos Especiais,1414483,515964116.94,364.77
+Prefeitura Municipal de Fortaleza - CE,28 - Encargos Especiais,2596157,918607848.07,353.83
+Prefeitura Municipal de Porto Velho - RO,28 - Encargos Especiais,461748,155540242.95,336.85
+Prefeitura Municipal de Aracaju - SE,28 - Encargos Especiais,605309,203509021.88,336.21
+Prefeitura Municipal de Florianópolis - SC,28 - Encargos Especiais,574200,181484527.48,316.07
+Prefeitura Municipal de Palmas - TO,28 - Encargos Especiais,334454,105348294.01,314.99
+Prefeitura Municipal de Teresina - PI,28 - Encargos Especiais,868523,260189257.15,299.58
+Prefeitura Municipal de João Pessoa - PB,28 - Encargos Especiais,889618,265101359.98,297.99
+Prefeitura Municipal de Porto Alegre - RS,28 - Encargos Especiais,1404269,391964547.16,279.12
+Prefeitura Municipal de Curitiba - PR,28 - Encargos Especiais,1871789,520536569.08,278.1
+Prefeitura Municipal de Cuiabá - MT,28 - Encargos Especiais,694244,183598926.5,264.46
+Prefeitura Municipal de Salvador - BA,28 - Encargos Especiais,2610987,656169156.61,251.31
+Prefeitura Municipal de Natal - RN,28 - Encargos Especiais,751932,184083172.15,244.81
+Prefeitura Municipal de Campo Grande - MS,28 - Encargos Especiais,942140,207693904.2,220.45
+Prefeitura Municipal de São Luís - MA,28 - Encargos Especiais,1061374,202997342.51,191.26
+Prefeitura Municipal de Maceió - AL,28 - Encargos Especiais,960667,174547355.28,181.69
+Prefeitura Municipal de Boa Vista - RR,28 - Encargos Especiais,408157,65043550.81,159.36
+Prefeitura Municipal de Rio Branco - AC,28 - Encargos Especiais,364368,46580433.83,127.84
